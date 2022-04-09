@@ -1,10 +1,10 @@
-*- Hi there 👋
+
 
 <!--
 **GODxFATHER/GODxFATHER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi, I’m Namandeep Singh Bisht
- 👀 I’m interested in Phyton,Data Structure,Machine learning
- 🌱 I’m currently learning tensorflow,Deep Learning,MLops
- 📫 How to reach me http://linkedin.com/in/namanml387
- ⚡ Fun fact: You spend 3 times more time on Data Exploration then Modeling
+# 👋 Hi, I’m Namandeep Singh Bisht
+- 👀 I’m interested in Phyton,Data Structure,Machine learning
+- 🌱 I’m currently learning tensorflow, Deep Learning, MLops
+- 📫 How to reach me http://linkedin.com/in/namanml387
+- ⚡ Fun fact: You spend 3 times more time on Data Exploration then Modeling
