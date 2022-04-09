@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I’m Namandeep Singh Bisht
+### 👀 I’m interested in Phyton,Data Structure,Machine learning
+### 🌱 I’m currently learning tensorflow,Deep Learning,MLops
+### 📫 How to reach me http://linkedin.com/in/namanml387
+### ⚡ Fun fact: You spend 3 times more time on Data Exploration then Modeling
